@@ -1,4 +1,4 @@
-.vjs-resolution-button .vjs-menu-icon:before {
+.vjs-resolution-button .vjs-menu-button .vjs-icon-placeholder::before {
   content: '\f110';
   font-family: VideoJS;
   font-weight: normal;
@@ -8,7 +8,7 @@
 }
 
 .vjs-resolution-button .vjs-resolution-button-label {
-  font-size: 1em;
+  font-size: 1.4em;
   line-height: 3em;
   position: absolute;
   top: 0;
